@@ -1,0 +1,8 @@
+version: 1.1.19
+files:
+  - url: DangnChat-Setup-1.1.19.exe
+    sha512: 9EKchaVR/v9sA8GwRHt3xqAAFOUWrOGoJ6MosetfOue3RXhV42MM8ixbvmcp3X3eew1eSS0SxUwLfMVV0HHmEQ==
+    size: 100609913
+path: DangnChat-Setup-1.1.19.exe
+sha512: 9EKchaVR/v9sA8GwRHt3xqAAFOUWrOGoJ6MosetfOue3RXhV42MM8ixbvmcp3X3eew1eSS0SxUwLfMVV0HHmEQ==
+releaseDate: '2026-09-08T10:55:21.166Z'
